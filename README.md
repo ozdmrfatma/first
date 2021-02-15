@@ -1,1 +1,1 @@
-# Basic snake game with using funcitons and loops in c++
+# Basic snake game with using functions and loops in c++
